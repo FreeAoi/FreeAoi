@@ -6,7 +6,6 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=freeaoi&show_icons=true" alt="freeaoi" />
