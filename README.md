@@ -5,4 +5,4 @@
 ### :zap: Recent Activity
 
 
-<img align="center" theme="tokyonight" src="https://github-readme-stats.vercel.app/api?username=freeaoi&show_icons=true" alt="freeaoi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=freeaoi&show_icons=true&theme=tokyonight" alt="freeaoi" />
