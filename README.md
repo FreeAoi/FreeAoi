@@ -9,24 +9,15 @@
 
 # 📜 **My Skill Set**
 
+<br/>
 <p align="center">
-    <img src="./skills/nestjs.svg?raw=true" height="40px">
-    <img src="./skills/typescript.svg?raw=true" height="40px">
-    <img src="./skills/tailwindcss.svg?raw=true" height="40px">
-    <img src="./skills/react.svg?raw=true" height="40px">
-    <img src="./skills/bootstrap.svg?raw=true" height="40px">
-    <img src="./skills/electron.svg?raw=true" height="40px">
-    <img src="./skills/redis.svg?raw=true"
-    height="40px">
-    <img src="./skills/prisma.png?raw=true"
-    height="40px">
-    <img src="./skills/mongodb.svg?raw=true" height="40px">
-    <img src="./skills/nodejs.svg?raw=true" height="40px">
-    <img src="./skills/git.svg?raw=true" height="40px">
-    <img src="./skills/docker.svg?raw=true" height="40px">
-    <img src="./skills/nextjs.png?raw=true" height="40px">
-    
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=css,prisma,nextjs,redis,git,docker,nestjs,typescript,tailwind,react,nodejs,electron&perline=6" />
+    </a>
 </p>
+<br/>
+
+# 📈 **My GitHub Stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=FreeAoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -35,4 +26,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeAoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FreeAoi&icon=0&color=8)](https://visitcount.itsvg.in)
+
+<p align="center"> 
+    <img src="https://visitcount.itsvg.in/api?id=FreeAoi&icon=0&color=8">
+
+    > "The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein
+</p>
