@@ -30,5 +30,5 @@
 <p align="center"> 
     <img src="https://visitcount.itsvg.in/api?id=FreeAoi&icon=0&color=8">
 
-    > "The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein
+    "The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein
 </p>
