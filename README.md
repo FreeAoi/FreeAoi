@@ -1,8 +1,8 @@
 # 📚 **BIO**
 
->  Hi, I'm FreeAoi.
+>  **Hi, I'm FreeAoi.**
 
-> I am a physics student who likes computer science, and I develop applications in my free time.
+> **I am a physics student who likes computer science, and I develop applications in my free time.**
 
 
 🔭 I’m currently working on [EVA-UNI](https://github.com/FreeAoi/eva-uni)
@@ -10,21 +10,21 @@
 # 📜 **My Skill Set**
 
 <p align="center">
-    <img src="../FreeAoi/skills/nestjs.svg" height="40px">
-    <img src="../FreeAoi/skills/typescript.svg" height="40px">
-    <img src="../FreeAoi/skills/tailwindcss.svg" height="40px">
-    <img src="../FreeAoi/skills/react.svg" height="40px">
-    <img src="../FreeAoi/skills/bootstrap.svg" height="40px">
-    <img src="../FreeAoi/skills/electron.svg" height="40px">
-    <img src="../FreeAoi/skills/redis.svg"
+    <img src="./skills/nestjs.svg?raw=true" height="40px">
+    <img src="./skills/typescript.svg?raw=true" height="40px">
+    <img src="./skills/tailwindcss.svg?raw=true" height="40px">
+    <img src="./skills/react.svg?raw=true" height="40px">
+    <img src="./skills/bootstrap.svg?raw=true" height="40px">
+    <img src="./skills/electron.svg?raw=true" height="40px">
+    <img src="./skills/redis.svg?raw=true"
     height="40px">
-    <img src="../FreeAoi/skills/prisma.png"
+    <img src="./skills/prisma.png?raw=true"
     height="40px">
-    <img src="../FreeAoi/skills/mongodb.svg" height="40px">
-    <img src="../FreeAoi/skills/nodejs.svg" height="40px">
-    <img src="../FreeAoi/skills/git.svg" height="40px">
-    <img src="../FreeAoi/skills/docker.svg" height="40px">
-    <img src="../FreeAoi/skills/nextjs.png" height="40px">
+    <img src="./skills/mongodb.svg?raw=true" height="40px">
+    <img src="./skills/nodejs.svg?raw=true" height="40px">
+    <img src="./skills/git.svg?raw=true" height="40px">
+    <img src="./skills/docker.svg?raw=true" height="40px">
+    <img src="./skills/nextjs.png?raw=true" height="40px">
     
 </p>
 
