@@ -1,4 +1,4 @@
-# 📚 **BIO**
+# **Bipgraphy**
 
 >  **Hi, I'm FreeAoi.**
 
@@ -7,23 +7,13 @@
 
 🔭 I’m currently working on [EVA-UNI](https://github.com/FreeAoi/eva-uni)
 
-# 📜 **My Skill Set**
-
 <br/>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=css,prisma,nextjs,redis,git,docker,nestjs,typescript,tailwind,react,nodejs,electron&perline=6" />
+        <img src="https://skillicons.dev/icons?i=css,docker,electron,git,nestjs,nextjs,nodejs,prisma,react,redis,tailwind,typescript" />
     </a>
 </p>
 <br/>
-
-# 📈 **My GitHub Stats**
-
-![](https://github-readme-stats.vercel.app/api?username=FreeAoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=FreeAoi&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeAoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
