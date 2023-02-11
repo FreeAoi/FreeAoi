@@ -1,4 +1,4 @@
-# **Bipgraphy**
+# **Biography**
 
 >  **Hi, I'm FreeAoi.**
 
