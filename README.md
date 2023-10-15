@@ -2,10 +2,7 @@
 
 >  **Hi, I'm FreeAoi.**
 
-> **I am a physics student who likes computer science, and I develop applications in my free time.**
-
-
-🔭 I’m currently working on [EVA-UNI](https://github.com/FreeAoi/eva-uni)
+> **I am a physics student who likes computer science.**
 
 <br/>
 <p align="center">
